@@ -1,0 +1,7 @@
+Girilen matris:
+5.000    1.000    
+1.000    1.000    
+
+Delta = 20.000 
+1. Ozdeger = 0.764
+2. Ozdeger = 5.236
